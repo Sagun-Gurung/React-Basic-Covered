@@ -1,0 +1,30 @@
+#dashboard{
+    background-color: rgb(240, 248, 255);
+    padding: 15px;
+}
+
+#container{
+    background-color: aliceblue;
+    border: 2px solid black;
+    margin-top: 5px;
+    padding: 15px 40px;
+    font-size: 1.5rem;
+}
+
+#readAll{
+    background-color: rgba(240, 248, 255, 0.808);
+    border-top: 2px solid black;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+#readAll p{
+    padding-left: 10px;
+}
+
+button{
+    border-color: white;
+    padding: 4px;
+    font-size: large;
+    margin: 5px;
+    background-color: rgba(128, 0, 128, 0.705);
+}

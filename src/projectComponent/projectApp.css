@@ -1,0 +1,18 @@
+#project-container{
+    background: purple;
+    padding: 20px;
+    text-decoration: none;
+}
+#navLink{
+    text-decoration: none;
+    margin-left: 30px;
+    color: white;
+}
+
+#createProductForm, #productList, #specificProduct, #updateProducts{
+    margin: 3rem 7rem;
+    letter-spacing: 0.2rem;
+    background-color: rgb(128, 0, 128);
+    padding: 0.5rem 0.15rem;
+    color: white;
+}
